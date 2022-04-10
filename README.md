@@ -1,6 +1,6 @@
 #	Laboratório Dio:  
 
-## Objetivo:
+## Objetivo :
 
 Como parte do desafio do Orbi Web Game Developer, foi desenvolvido o  jogo de naves, construindo o placar, os níveis de energia e os sons.
 
